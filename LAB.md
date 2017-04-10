@@ -42,6 +42,12 @@ good morning marty
 good evening marty
 ```
 
+00:00 - 11:59 morning
+
+12:00 - 16:59 afternoon
+
+17:00 - 23:59 night
+
 ### Requirements
 
 You should already have `mocha` and `eslint` installed globally from today's class.
